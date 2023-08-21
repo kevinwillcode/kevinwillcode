@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Python , Hadoop, Java, Docker, Kafka**
 
-- 👨‍💻 All of my projects are available at this Repository or you can check my [Notion](https://bit.ly/Notion-Ragun)
+- 👨‍💻 All of my projects are available at this Repository or you can check my [Notion]()
 
 - 💬 Ask me about **Data Engineer**
 
