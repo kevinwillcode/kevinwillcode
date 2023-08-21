@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-photo/businesspeople-meeting-plan-analysis-graph-company-finance-strat_74952-1347.jpg?w=1800&t=st=1660934515~exp=1660935115~hmac=cf04cd2efa5f124546bb96f56d8b687333c0f75bdff7ae9082b52d9d57b88a3d)](https://rishavchanda.io)
+<!-- [![MasterHead](https://img.freepik.com/free-photo/businesspeople-meeting-plan-analysis-graph-company-finance-strat_74952-1347.jpg?w=1800&t=st=1660934515~exp=1660935115~hmac=cf04cd2efa5f124546bb96f56d8b687333c0f75bdff7ae9082b52d9d57b88a3d)](https://rishavchanda.io) -->
 <h1 align="center">Hi 👋, I'm Kevin Williams</h1>
 <h3 align="center">Data Engineeer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/bdf64db7ecc488c26bedeca8dd6a4909eecb2f05b2d06698c14013fab5b4e5cf/68747470733a2f2f692e696d6775722e636f6d2f6d5649723230372e676966">
@@ -18,7 +18,6 @@
 - 📫 How to reach me **kevinity310@outlook**
 
 - 📄 Know about my experiences [Resume](https://bit.ly/kevinwill-resume)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
